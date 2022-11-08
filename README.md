@@ -4,7 +4,7 @@
 
 The aim of this project was to take the existing code and refactor it in order to increase web accessability. This was done through HTML and CSS. 
 
-By using semantic HTML elements and alt attributes, I was able to increase Search Engine Optimization as well as a better user experience. Semantic elements make it much easier for user devices to determine the value behind the context of the webpage and increase overall accessability. Alt attibutes offer very similar advantages as they ensure information about images are availabe for those visually impaired or unable to see pictures.
+By using semantic HTML elements and alt attributes, I was able to increase Search Engine Optimization as well as create a better user experience. Semantic elements make it much easier for user devices to determine the value behind the context of the webpage and increase overall accessability. Alt attibutes offer very similar advantages as they ensure information about images are availabe for those visually impaired or unable to see pictures.
 
 Consolidating and organising CSS selectors and properties implemented the Don't Repeat Yourself (DRY) Code and as such left the much more effecient than previously presented. By using comments througout the Stylesheet, it ensured that the code will be easier read and understood if/when it is looked at later on. This is an essential as is is highly likely that other designers and developers will read the code, and comments can aid them in understanding the refactored code.
 
