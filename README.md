@@ -10,27 +10,14 @@ Consolidating and organising CSS selectors and properties implemented the Don't 
 
 Though JavaScript has not been used in this project, it remains an ambition for future projects as I am very interested in developing interative web pages. During this journey, I learned and consolidated my knowledge on the importance of class and id attributes as well as the overall benefits of a structured code. Though I struggled on editing the CSS framework, I learnt alot about CSS selectors and will continue learning more about them for future projects.
 
-
-## Table of Contents
-
-If your README is very long, add a table of contents to make it easy for users to find what they need.
-
-* [Installation](#installation)
-* [Usage](#usage)
-* [Credits](#credits)
-* [License](#license)
-
-
-## Installation
-
-N/A
-
-
 ## Usage 
+ 
+ On the webpage, on the right corner, opposite the title, are three headings, which are linked to blocks of texts and images lower down on the page.
 
+![Screenshot of the top of Horiseon page](assets/images/screenshot(6).png)
 
+The coding behind each of these links is displayed in the image below.
 
-Provide instructions and examples for use. Include screenshots as needed. 
 
 To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative filepath, add it to your README using the following syntax:
 
@@ -38,20 +25,9 @@ To add a screenshot, create an `assets/images` folder in your repository and upl
 ![alt text](assets/images/screenshot.png)
 ```
 
-
-## Credits
-
-N/A
-
-
 ## License
 
 Refer to LISCENCE in Repository.
-
-
----
-
-🏆 The sections listed above are the minimum for a good README, but your project will ultimately determine the content of this document. You might also want to consider adding the following sections.
 
 ---
 
