@@ -12,18 +12,37 @@ Though JavaScript has not been used in this project, it remains an ambition for 
 
 ## Usage 
  
- On the webpage, on the right corner, opposite the title, are three headings, which are linked to blocks of texts and images lower down on the page.
+ On the webpage, on the right corner, opposite the title, are three headings, which are linked to blocks of texts and images lower down on the page. As shown in the first two images.
 
-![Screenshot of the top of Horiseon page](assets/images/screenshot(6).png)
+![Screenshot of the top of Horiseon page](assets/images/Screenshot(6).png)
 
-The coding behind each of these links is displayed in the image below.
+![Screenshot of the Content linked by the first 3 headings](assets/images/screenshot(7).png)
 
+The coding behind each of these links is displayed in the images of the Index.html file below.
 
-To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative filepath, add it to your README using the following syntax:
+![Screenshot of hyperlinks within file](assets/images/Screenshot(1).png)
 
-```md
-![alt text](assets/images/screenshot.png)
-```
+This first image displays a hash within a hyperlink that signifies a HTML element id to which the window should be scrolled. In this case it refers the window to the image below.
+
+![Screenshot of content of webpage, identifified with class and id attributes, images and alt attributes](assets/images/Screenshot(2).png)
+
+This image uses class and id attributes act as selectors that help make the code easier to write and consolidate. The alt displayed in this image are a essential feature in creating a more accessible webpage, as they will help users understand what each image represents, even if the image is unavailable to them.
+
+It is important to mention that I added spacing through this entire HTML document that wasnt in the original; this was so the code would be easier to read and understand in all its sections. It is much harder to find problems or errors within a code when it is very crowded.
+
+Another example is this image:
+
+![Screenshot of icon alt attributes, class and id attribute](assests/images/Screenshot(3).png)
+
+Where the index.html document built the framework of the webpage, the CSS style sheet designed it. 
+
+![Screenshot of CSS Stylesheet displaying header features/values](assets/images/Screenshot(4).png)
+
+This image not only displays essential style feature such as the CSS box model (in code), and sets colours, but also important comments that developers or designers may look at later to clarify specific areas of code. This is also done in the image below.
+
+![Screenshot of selectors consolidated and using shared values](assets/images/Screensot(5).png)
+
+This image displays the importance of the DRY code and demonstrates the importance of efficent coding.
 
 ## License
 
